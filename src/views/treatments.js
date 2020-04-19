@@ -19,7 +19,7 @@ export const treatments =() => {
                         <div class="card-body">
                             <h5 class="card-title">Masaż rozgrzanym monitorem</h5>
                             <p class="card-text"> </p>
-                            <a href="#" class="btn btn-primary">Poznaj szczegóły oferty</a>
+                            <a href="#info1" class="btn btn-primary">Poznaj szczegóły oferty</a>
                         </div>
                 </div>
 
